@@ -1,0 +1,29 @@
+name: inform-multiomics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-mofa2
+  - r-ggplot2
+  - r-ggpubr
+  - r-ggrepel
+  - r-dplyr
+  - r-tibble
+  - r-readr
+  - r-tidyr
+  - r-magrittr
+  - r-stringr
+  - r-scales
+  - r-cowplot
+  - r-data.table
+  - r-devtools
+  - r-patchwork
+  - r-reshape2
+  - r-remotes
+  - r-rcolorbrewer
+  - r-complexheatmap
+  - r-circlize
+  - r-glue       # required for tidyverse compatibility
+  - r-cli        # required for pretty printing and tidyverse
