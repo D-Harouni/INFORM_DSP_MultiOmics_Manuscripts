@@ -2,11 +2,11 @@
 
 This repository contains code used in the analysis for the manuscript:
 
-**“Integrative Multi-Omics and Drug Sensitivity Profiling Reveals Potential Biomarkers in Pediatric Solid Tumors from the INFORM Registry”**  
+**“Integrative Multi-Omics and Drug Sensitivity Profiling Reveals Potential Biomarkers and Therapeutic Strategies in Pediatric Solid Tumors”**  
 
 ## Overview
 
-This project integrates ex vivo drug screening with multi-omics profiling across pediatric solid tumors. Analyses include MOFA+ latent factor inference, drug response clustering, pathway enrichment using CARNIVAL, and external validation using public datasets (e.g., GDSC, DepMap, Celligner).
+This project integrates ex vivo drug screening with multi-omics profiling across pediatric solid tumors. The repository includes the final drug response matrix (sDSS_asym) used in the analyses, the trained MOFA+ model for latent factor inference, and scripts for generating visualizations presented in the manuscript.
 
 ## Repository Structure
 
